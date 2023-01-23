@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>org.example</groupId>
-    <artifactId>UI_Demo_Project</artifactId>
+    <groupId>com.cinch.testautomation.ui</groupId>
+    <artifactId>accel-agent-ui-test-suite</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <!-- FIXME change it to the project's website -->
+    <url>http://www.example.com</url>
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
         <project.java.version>1.8</project.java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -18,6 +15,30 @@
         <allure.version>2.13.5</allure.version>
     </properties>
 
+    <profiles>
+        <profile>
+            <id>qa</id>
+            <properties>
+                <dbhost>db.qa.accelerate.cinchhs.com</dbhost>
+            </properties>
+
+        </profile>
+
+    </profiles>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.testautomation.ui</groupId>
+            <artifactId>ui-testautomation-framework</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.docker-java</groupId>
+            <artifactId>docker-java</artifactId>
+            <version>3.0.14</version>
+        </dependency>
+    </dependencies>
 
     <repositories>
         <repository>
@@ -27,19 +48,8 @@
         <repository>
             <id>github</id>
             <url>public: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@maven.pkg.github.com/sehjad28/ui-automation-framework</url>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
         </repository>
     </repositories>
-    <dependencies>
-        <dependency>
-            <groupId>com.testautomation.ui</groupId>
-            <artifactId>ui-testautomation-framework</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-    </dependencies>
-
 
     <build>
         <plugins>
@@ -97,7 +107,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
-                 <executions>
+                <executions>
                     <execution>
                         <id>copy-dependencies</id>
                         <phase>prepare-package</phase>
@@ -118,7 +128,12 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-
+                    <!--                    <archive>
+                                            <manifest>
+                                                <addClasspath>true</addClasspath>
+                                                <mainClass>com.cinch.testautomation.ui.runner.TestRunner</mainClass>
+                                            </manifest>
+                                        </archive>-->
                 </configuration>
                 <executions>
                     <execution>
@@ -130,5 +145,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
