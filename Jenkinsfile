@@ -7,7 +7,7 @@ pipeline {
         stage('Build') {
             steps {
                 script{
-                    currentBuild.displayName = "#${BUILD_NUMBER} Environment: ${environment}"
+                    currentBuild.displayName = "#${BUILD_NUMBER}"
                 }
                 sh "mvn clean package -DskipTests"
             }
