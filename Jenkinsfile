@@ -5,7 +5,7 @@ pipeline {
     }
     stages {
         stage ('ZAP Start') {
-          agent docker 
+          agent docker [docker]
                     steps {
                         echo 'Hello, '
 
