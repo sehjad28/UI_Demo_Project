@@ -16,13 +16,6 @@ public class HomePage extends BasePage {
 
     Wait wait = new Wait();
 
-    @FindBy(xpath = "//input[@placeholder='Card number']")
-    private WebElement txtbox_CardNumber;
-
-    @FindBy(xpath = "//input[@placeholder='CVV']")
-    private WebElement txtbox_CVV;
-
-
     @Step("Go to Agent Site...")
     public void gotoSite(String url) throws Exception {
         gotoURL(url);

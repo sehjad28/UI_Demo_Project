@@ -1,14 +1,17 @@
 package com.project.home;
 
 import com.cinch.testautomation.ui.base.BaseTest;
+import com.cinch.testautomation.ui.reporting.TestListener;
 import com.cinch.testautomation.ui.security.ZapScan;
 import com.project.pages.home.HomePage;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import org.zaproxy.clientapi.core.ApiResponse;
 import org.zaproxy.clientapi.core.ClientApi;
 import org.zaproxy.clientapi.core.ClientApiException;
 
+@Listeners({ TestListener.class })
 public class HomePageTest extends BaseTest {
 
     @Test
