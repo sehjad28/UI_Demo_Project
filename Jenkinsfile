@@ -5,8 +5,10 @@ pipeline {
     }
     stages {
         stage ('ZAP Start') {
-           docker { image 'node:16.13.1-alpine' }
-                    steps {
+                 steps {
+
+                   def dockerHome = tool 'docker'
+                   env.PATH = "${dockerHome}/bin:${env.PATH}"
                         echo 'Hello, '
 
                         sh '''#!/usr/bin bash
