@@ -8,6 +8,7 @@ pipeline {
                  steps {
 
                         echo 'Hello, '
+                        sh "chmod +x -R ${env.WORKSPACE}"
 
                         sh '''#!/usr/bin bash
 
