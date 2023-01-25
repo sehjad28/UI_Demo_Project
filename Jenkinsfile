@@ -8,7 +8,7 @@ pipeline {
                  steps {
 
                         echo 'Hello, '
-                        sh "chmod -R 777 "
+                        sh "chmod -R 777 ${env.WORKSPACE}"
 
                         sh '''#!/usr/bin bash
 
