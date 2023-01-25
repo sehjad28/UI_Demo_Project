@@ -7,11 +7,9 @@ pipeline {
         stage ('ZAP Start') {
                  steps {
 
-                   def dockerHome = tool 'docker'
-                   env.PATH = "${dockerHome}/bin:${env.PATH}"
                         echo 'Hello, '
 
-                        sh '''#!/usr/bin bash
+                        sh '''#!/var/jenkins_home/docker
 
                             CONTAINER_ID=$(docker run -u zap -p 8081:8081 -d owasp/zap2docker-weekly zap.sh -daemon -port 8081 -host 127.0.0.1 -config api.disablekey=true  -config connection.dnsTtlSuccessfulQueries=-1 -config api.addrs.addr.name=.* -config api.addrs.addr.regex=true)
 
