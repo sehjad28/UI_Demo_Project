@@ -23,3 +23,805 @@ INFO    2023-01-23 17:02:37,720 [TestNG-tests-1] com.cinch.testautomation.ui.uti
 INFO    2023-01-23 17:02:37,734 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
 INFO    2023-01-23 17:02:38,263 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
 INFO    2023-01-23 17:02:43,923 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 02:14:29,834 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 02:14:33,064 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-24 02:14:33,077 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-24 02:14:33,556 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 02:14:39,644 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 02:17:35,890 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 02:17:38,535 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-24 02:17:38,549 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-24 02:17:39,025 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 02:17:45,021 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 02:38:37,030 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 02:38:39,589 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-24 02:38:39,622 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-24 02:38:40,173 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 02:38:45,476 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/login?from=%2Fprocess.php%3Ffile%3DGenerics%2Findex.nsp
+INFO    2023-01-24 02:38:49,367 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 14:19:42,501 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 14:19:46,162 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-24 14:19:46,179 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-24 14:19:46,937 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 14:19:52,870 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 20:58:45,703 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 20:58:48,785 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-24 20:58:48,799 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-24 20:58:48,993 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-24 20:58:49,133 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 20:58:56,606 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-24 20:59:00,654 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-24 20:59:01,385 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 20:59:03,454 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-24 21:01:25,734 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 21:01:30,483 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-24 21:01:30,499 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-24 21:01:30,598 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-24 21:01:30,656 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 21:01:37,588 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-24 21:01:41,649 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-24 21:01:42,391 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 21:01:44,441 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-24 21:02:43,732 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-24 21:02:46,253 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-24 21:02:46,267 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-24 21:02:46,441 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-24 21:02:46,521 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-24 21:02:53,457 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-24 21:02:55,520 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-24 21:02:55,521 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-24 21:02:56,241 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-24 21:02:56,878 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:36:51,524 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:36:55,995 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:36:56,012 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:36:56,290 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:36:56,497 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:37:11,259 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:37:13,320 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 15:37:13,321 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 15:37:14,036 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:37:14,626 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:40:14,741 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:40:17,873 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:40:17,889 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:40:18,132 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:40:18,263 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:40:27,650 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:40:29,714 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 15:40:29,715 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 15:40:30,397 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:40:30,463 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:41:37,463 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:41:39,723 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:41:39,736 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:41:39,901 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:41:39,974 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:41:47,838 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:41:49,901 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 15:41:49,930 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 15:41:50,638 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:41:50,682 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:45:30,737 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:45:33,747 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:45:33,762 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:45:33,904 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:45:34,004 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:45:41,071 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:45:43,110 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 15:45:43,138 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 15:45:43,828 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:45:43,860 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:49:01,614 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:49:03,845 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:49:03,861 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:49:03,994 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:49:04,058 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:49:11,292 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:49:17,387 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 15:49:18,323 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:49:20,367 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 15:50:10,466 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 15:50:12,839 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 15:50:12,856 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 15:50:13,078 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 15:50:13,230 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 15:50:21,199 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 15:50:23,296 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 15:50:23,811 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 15:50:24,527 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 15:50:24,558 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:00:46,450 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:00:48,845 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:00:48,858 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:00:49,008 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:00:49,086 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:00:56,679 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 16:00:58,721 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:00:59,324 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:01:00,028 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:01:00,091 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:01:45,634 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:01:48,093 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:01:48,107 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:01:48,243 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:01:48,326 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:02:36,682 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://www.mahindra.com/
+INFO    2023-01-25 16:02:38,725 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:02:38,756 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:02:39,512 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:02:39,562 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:04:39,910 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:04:42,181 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:04:42,198 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:04:42,391 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:04:42,471 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:05:28,597 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://www.mahindra.com/
+INFO    2023-01-25 16:05:34,707 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 16:05:36,645 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:05:38,696 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:06:43,186 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:06:45,574 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:06:45,590 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:06:45,728 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:06:45,813 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:07:32,433 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://www.mahindra.com/
+INFO    2023-01-25 16:07:34,495 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:07:35,005 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:07:35,811 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:07:35,851 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:12:33,302 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST SKIP: test - null
+INFO    2023-01-25 16:12:33,315 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:17:54,782 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:17:58,849 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:17:58,864 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:17:59,000 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:17:59,087 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:18:45,196 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://www.mahindra.com/
+INFO    2023-01-25 16:18:47,246 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:18:47,273 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:18:48,046 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:18:48,116 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:40:36,616 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:40:36,638 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:40:36,949 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:40:37,116 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:40:47,255 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 16:40:51,345 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 16:40:55,446 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:42:20,672 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:42:24,020 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:42:24,053 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:42:24,384 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:42:24,583 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:42:31,252 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 16:42:33,284 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:42:33,365 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:42:34,085 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:42:34,155 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:43:50,588 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:43:54,438 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:43:54,466 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:43:54,662 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:43:54,781 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:44:01,472 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 16:44:03,593 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:44:04,567 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:44:05,364 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:44:05,413 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 16:48:19,009 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 16:48:21,227 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 16:48:21,241 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 16:48:21,400 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 16:48:21,480 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 16:48:28,271 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 16:48:30,319 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 16:48:30,319 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 16:48:31,035 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 16:48:31,073 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:09:32,747 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:09:35,356 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 17:09:35,373 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 17:09:35,602 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:09:35,774 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:09:42,788 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:09:44,895 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:09:44,896 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:09:45,602 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:09:46,191 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:13:53,550 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:13:56,482 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 17:13:56,499 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 17:13:56,718 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:13:56,855 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:14:03,416 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:14:04,086 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:14:04,121 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:19:58,038 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST SKIP: test - null
+INFO    2023-01-25 17:19:58,062 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:20:29,378 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST SKIP: test - null
+INFO    2023-01-25 17:20:29,405 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:22:32,661 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:22:35,688 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 17:22:35,717 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 17:22:36,012 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:22:36,239 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:22:42,765 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:22:44,806 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:22:44,807 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:22:45,494 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:22:45,540 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:24:43,453 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:24:45,783 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 17:24:45,814 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 17:24:46,109 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:24:46,277 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:24:52,861 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:24:54,895 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:24:54,896 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:24:55,610 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:24:55,641 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:26:12,373 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:26:15,627 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-01-25 17:26:15,657 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - CHROME driver has been created for execution
+INFO    2023-01-25 17:26:15,967 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:26:16,145 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:26:22,574 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:26:24,624 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:26:24,625 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:26:25,302 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:26:25,332 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:28:19,782 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:28:23,186 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 17:28:23,205 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 17:28:23,426 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:28:23,576 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:28:31,215 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:28:33,278 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:28:33,278 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:28:33,966 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:28:34,071 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:51:39,674 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:51:43,566 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 17:51:43,582 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 17:51:43,773 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:51:43,889 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:51:48,786 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 17:51:49,662 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:51:51,717 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:53:28,666 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:53:32,060 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 17:53:32,085 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 17:53:32,390 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:53:32,656 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:53:58,390 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:54:00,444 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:54:00,445 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:54:01,378 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:54:02,635 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:55:01,560 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:55:05,005 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 17:55:05,022 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 17:55:05,260 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:55:05,428 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:55:30,817 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:55:32,895 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:55:32,896 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:55:33,839 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:55:34,738 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 17:59:20,294 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 17:59:24,593 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 17:59:24,618 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 17:59:24,841 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 17:59:25,050 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 17:59:50,533 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 17:59:52,589 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 17:59:52,590 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 17:59:53,574 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 17:59:53,914 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:00:19,725 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:00:23,154 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:00:23,169 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:00:23,384 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:00:23,512 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:01:07,495 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 18:01:09,536 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 18:01:09,537 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:01:10,300 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:01:10,351 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:02:12,630 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:02:15,615 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:02:15,632 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:02:15,916 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:02:16,226 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:02:51,548 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 18:02:51,552 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-25 18:02:51,600 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:06:21,660 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:06:24,217 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:06:24,234 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:06:24,361 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:06:24,453 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:06:45,225 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 18:06:49,275 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:06:49,987 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:06:52,047 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:13:21,034 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:13:24,384 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:13:24,401 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:13:24,605 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:13:24,731 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:13:41,533 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 18:13:45,616 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 18:13:45,618 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:13:46,397 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:13:47,448 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:15:29,054 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:15:33,137 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:15:33,157 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:15:33,432 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:15:33,620 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:16:00,206 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://in.search.yahoo.com/?fr2=inr
+INFO    2023-01-25 18:16:02,289 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 18:16:02,290 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:16:03,116 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:16:03,998 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:49:38,024 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:49:41,193 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:49:41,209 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:49:41,371 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:49:41,485 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:49:57,648 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://in.search.yahoo.com/?fr2=inr
+INFO    2023-01-25 18:49:59,697 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 18:49:59,698 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:50:00,443 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:50:01,161 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-25 18:51:09,163 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-25 18:51:12,609 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-25 18:51:12,623 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-25 18:51:12,807 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-25 18:51:12,942 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-25 18:51:20,142 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-25 18:51:22,190 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-25 18:51:22,191 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-25 18:51:22,940 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-25 18:51:23,697 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 13:43:28,921 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 13:43:33,660 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 13:43:33,695 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 13:43:34,055 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 13:43:34,401 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 13:43:43,554 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 13:43:45,661 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 13:45:16,213 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 13:45:17,056 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 13:45:17,925 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:08:07,192 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:08:17,361 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:08:17,429 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:08:17,816 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:08:18,211 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:09:36,737 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:09:37,808 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:09:42,361 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:10:47,865 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:10:52,332 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:10:52,360 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:10:52,654 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:10:52,867 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:12:03,790 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:12:04,661 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:12:04,853 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:12:36,321 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:12:46,388 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:12:46,422 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:12:47,308 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:12:47,718 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:13:13,450 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 14:13:15,542 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 14:14:00,840 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:14:01,705 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:14:01,897 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:15:34,529 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:15:38,246 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:15:38,262 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:15:38,522 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:15:38,688 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:15:50,410 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : https://in.search.yahoo.com/?fr2=inr
+INFO    2023-01-30 14:15:52,490 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 14:16:17,660 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:16:18,522 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:16:18,811 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:30:35,825 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:30:38,618 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:30:38,645 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:30:38,802 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:30:38,908 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:30:56,001 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:30:56,782 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:30:57,511 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:38:52,302 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:38:54,963 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:38:54,982 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:38:55,240 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:38:55,434 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:39:20,648 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 14:39:22,702 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 14:39:22,703 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:39:23,457 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:39:24,145 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:40:39,877 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:40:44,342 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:40:44,357 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:40:44,491 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:40:44,594 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:41:10,177 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 14:41:13,747 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:41:14,763 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:41:14,800 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:41:27,371 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:41:31,826 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:41:31,835 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:41:32,064 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:41:32,340 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:41:57,714 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 14:41:59,789 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 14:41:59,790 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:42:00,549 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:42:01,184 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 14:43:47,166 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 14:43:51,879 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 14:43:51,894 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 14:43:52,030 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 14:43:52,110 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 14:44:17,321 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 14:44:19,388 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 14:44:19,389 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 14:44:20,184 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 14:44:20,284 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 15:23:27,660 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:23:30,665 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:23:30,681 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:23:30,872 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:23:31,063 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:23:36,829 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://localhost:5601/app/home#/
+INFO    2023-01-30 15:23:38,905 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:23:38,906 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 15:23:39,801 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 15:23:39,963 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 15:24:01,946 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:24:04,751 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:24:04,765 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:24:04,915 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:24:05,020 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:24:10,442 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://localhost:5601/app/home#/
+INFO    2023-01-30 15:24:12,478 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:24:17,515 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 15:24:18,380 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 15:24:18,553 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 15:24:55,638 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:24:58,560 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:24:58,581 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:24:58,767 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:24:58,884 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:25:04,359 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://127.0.0.1:5601/app/home#/
+INFO    2023-01-30 15:25:06,406 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:25:11,431 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 15:25:12,272 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 15:25:12,433 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 15:30:40,305 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:30:43,078 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:30:43,096 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:30:43,303 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:30:43,432 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:31:08,633 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://localhost.com:5601/app/home#/
+INFO    2023-01-30 15:31:10,687 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:32:04,306 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:32:07,179 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:32:07,194 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:32:07,317 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:32:07,410 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:32:32,588 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://localhost.com:5601/app/home#/
+INFO    2023-01-30 15:32:34,659 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:40:41,328 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 15:40:44,512 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 15:40:44,524 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 15:40:44,629 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 15:40:44,700 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 15:40:51,227 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 15:40:53,263 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 15:43:54,130 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 15:43:55,041 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 15:43:55,174 [TestNG-tests-1] com.cinch.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 16:13:22,193 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:13:25,164 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:13:25,182 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:13:25,373 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:13:25,490 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:13:50,857 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 16:13:52,925 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 16:30:18,472 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:30:20,952 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:30:20,974 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:30:21,068 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:30:21,137 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:30:25,980 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 16:30:26,846 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 16:30:28,894 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 16:30:44,740 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:30:48,030 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:30:48,048 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:30:48,254 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:30:48,382 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:31:02,689 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:31:08,898 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:31:08,932 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:31:09,216 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:31:09,425 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:31:10,664 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 16:31:12,692 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 16:31:26,065 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 16:31:26,778 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 16:31:27,961 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 16:33:32,992 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:33:35,455 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:33:35,469 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:33:35,698 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:33:35,809 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:33:42,664 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 16:33:44,720 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 16:33:44,721 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 16:33:45,401 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 16:33:45,870 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 16:34:37,500 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:34:39,814 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:34:39,830 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:34:40,042 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:34:40,210 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:34:58,614 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 16:35:00,633 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 16:35:00,634 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 16:35:01,348 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 16:35:01,890 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 16:36:13,410 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 16:36:15,698 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 16:36:15,717 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 16:36:15,887 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 16:36:16,022 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 16:37:42,823 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 16:37:43,525 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 16:37:44,003 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 20:23:51,715 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 20:23:55,260 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 20:23:55,275 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 20:23:55,402 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 20:23:55,513 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 20:25:06,621 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 20:25:08,638 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 20:27:07,638 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 20:27:10,170 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 20:27:10,185 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 20:27:10,338 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 20:27:10,423 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 20:28:20,767 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 20:28:30,663 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 20:28:31,544 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 20:28:31,573 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 20:29:14,763 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 20:29:17,323 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 20:29:17,338 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 20:29:17,452 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 20:29:17,547 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 20:30:37,969 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 20:30:37,973 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 20:30:38,591 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 21:46:57,128 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 21:46:59,742 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 21:46:59,757 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 21:46:59,906 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 21:47:00,032 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 21:47:30,197 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 21:47:30,202 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 21:47:30,270 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 21:48:29,005 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 21:48:31,532 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 21:48:31,555 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 21:48:31,711 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 21:48:31,806 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 21:49:40,917 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : https://in.search.yahoo.com/?fr2=inr
+INFO    2023-01-30 21:49:42,945 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 22:11:21,823 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 22:11:22,746 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 22:11:22,901 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 22:38:58,569 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 22:39:01,296 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 22:39:01,315 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 22:39:01,464 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 22:39:01,579 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 22:39:31,818 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 22:39:31,823 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 22:39:32,532 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 22:40:39,405 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 22:40:43,102 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 22:40:43,114 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 22:40:43,317 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 22:40:43,410 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 22:40:48,325 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 22:40:49,272 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 22:40:51,354 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 22:41:00,353 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 22:41:02,877 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 22:41:02,891 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 22:41:03,004 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 22:41:03,073 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 22:41:07,978 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 22:41:08,938 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 22:41:10,985 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 22:57:25,346 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 22:57:28,506 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 22:57:28,515 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 22:57:28,703 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 22:57:28,815 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 22:57:45,983 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 22:57:48,059 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 22:58:00,069 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 22:58:02,805 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 22:58:02,820 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 22:58:02,908 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 22:58:02,975 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 22:58:19,357 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 22:58:21,398 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 23:00:21,947 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 23:00:22,714 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 23:00:23,332 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:03:56,830 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:03:59,469 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:03:59,490 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:03:59,636 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:03:59,742 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:04:17,232 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 23:04:21,375 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 23:07:07,204 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 23:07:07,956 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 23:07:08,607 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:11:11,345 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:11:13,943 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:11:13,955 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:11:14,097 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:11:14,203 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:11:31,219 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 23:11:33,328 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 23:13:28,857 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 23:13:29,823 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 23:13:30,474 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:15:34,297 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:15:38,610 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:15:38,625 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:15:38,730 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:15:38,800 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:15:58,265 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-30 23:16:00,291 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-30 23:17:30,765 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-30 23:17:31,535 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-30 23:17:31,651 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:31:55,955 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:32:00,560 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:32:00,574 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:32:00,705 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:32:00,785 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:32:36,001 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:32:36,027 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:32:36,171 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:32:56,123 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:33:00,408 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:33:00,422 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:33:00,537 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:33:00,622 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:33:57,539 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:34:01,865 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:34:01,879 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:34:02,055 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:34:02,161 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:34:32,324 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:34:32,331 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:34:32,398 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:36:29,907 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:36:34,148 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:36:34,162 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:36:34,308 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:36:34,400 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:37:02,229 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:37:06,325 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:37:10,422 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-30 23:37:13,235 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-30 23:37:17,581 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-30 23:37:17,594 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-30 23:37:17,726 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-30 23:37:17,813 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-30 23:37:47,980 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:37:47,987 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-30 23:37:48,037 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:14:41,774 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:14:45,243 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:14:45,258 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:14:45,349 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:14:45,408 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:15:19,447 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:15:23,517 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:15:27,663 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:15:31,134 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:15:33,727 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:15:33,743 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:15:33,870 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:15:33,956 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:16:04,191 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:16:04,196 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:16:04,253 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:16:38,257 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:16:40,896 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:16:40,907 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:16:41,056 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:16:41,138 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:17:11,253 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:17:11,259 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:17:11,301 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:18:09,136 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:18:11,746 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:18:11,761 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:18:11,888 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:18:21,987 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:18:52,114 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:18:52,121 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 00:18:52,178 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:22:40,454 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:22:43,148 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:22:43,164 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:22:43,323 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:22:53,407 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:23:13,185 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : https://defendtheweb.net/auth
+INFO    2023-01-31 00:23:15,255 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-31 00:23:15,255 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-31 00:23:15,996 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-31 00:23:16,062 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 00:23:59,264 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:24:01,945 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:24:01,984 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:24:02,179 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:24:02,329 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:24:22,536 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : https://defendtheweb.net/auth
+INFO    2023-01-31 00:24:24,616 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-31 00:29:32,229 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 00:29:36,334 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 00:29:36,350 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 00:29:36,493 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 00:29:36,601 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 00:29:57,676 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : https://www.hackthissite.org/
+INFO    2023-01-31 00:29:59,751 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-31 16:47:07,705 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 16:47:11,816 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 16:47:11,829 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 16:47:11,901 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 16:47:11,952 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 16:47:16,817 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 16:47:17,689 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-31 16:47:19,757 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 16:47:44,349 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 16:47:46,985 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 16:47:47,005 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 16:47:47,295 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 16:47:47,499 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 16:48:05,095 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-31 16:48:07,140 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-31 16:50:07,646 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-31 16:50:08,346 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-31 16:50:08,972 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 16:52:34,840 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 16:52:37,088 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 16:52:37,101 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 16:52:37,230 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 16:52:37,329 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 16:52:53,819 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com/process.php?file=Generics/index.nsp
+INFO    2023-01-31 16:52:55,859 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-01-31 16:54:56,418 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-01-31 16:54:57,136 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-01-31 16:54:57,261 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST

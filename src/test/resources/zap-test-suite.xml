@@ -4,7 +4,7 @@
 
     <test name="ZAP TEST">
         <parameter name="platformType" value="web"/>
-        <parameter name="platformName" value="CHROME"/>
+        <parameter name="platformName" value="ZAP_PROXY"/>
         <classes>
             <class name="com.project.home.HomePageTest"/>
         </classes>
