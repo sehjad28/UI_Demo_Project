@@ -25,7 +25,7 @@
         </repository>
         <repository>
             <id>github</id>
-            <url>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@maven.pkg.github.com/sehjad28/ui-automation-framework</url>
+            <url>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@maven.pkg.github.com/sehjad28/ui-automation-framework</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.testautomation.ui</groupId>
             <artifactId>ui-testautomation-framework</artifactId>
-            <version>1.0.6</version>
+            <version>1.0.7</version>
         </dependency>
     </dependencies>
 
