@@ -25,7 +25,7 @@
         </repository>
         <repository>
             <id>github</id>
-            <url>public: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@maven.pkg.github.com/sehjad28/ui-automation-framework</url>
+            <url>public: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@maven.pkg.github.com/sehjad28/ui-automation-framework</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
