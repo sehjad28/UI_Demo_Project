@@ -25,7 +25,7 @@
         </repository>
         <repository>
             <id>github</id>
-            <url>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@maven.pkg.github.com/sehjad2000/ui-testautomation-framework</url>
+            <url>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@maven.pkg.github.com/sehjad2000/ui-testautomation-framework</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
