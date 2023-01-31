@@ -825,3 +825,11 @@ INFO    2023-01-31 16:52:55,859 [TestNG-tests-1] com.testautomation.ui.utilities
 INFO    2023-01-31 16:54:56,418 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
 INFO    2023-01-31 16:54:57,136 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
 INFO    2023-01-31 16:54:57,261 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-01-31 21:37:10,267 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-01-31 21:37:14,944 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-01-31 21:37:14,956 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-01-31 21:37:15,040 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-01-31 21:37:15,118 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-01-31 21:37:27,953 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 21:37:32,054 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-01-31 21:37:38,260 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
