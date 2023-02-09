@@ -24,7 +24,7 @@
         </repository>
         <repository>
             <id>github</id>
-            <url>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@maven.pkg.github.com/sehjad2000/ui-testautomation-framework</url>
+            <url>public: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@maven.pkg.github.com/sehjad2000/ui-testautomation-framework</url>
         </repository>
     </repositories>
     <dependencies>
