@@ -9,68 +9,10 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">ZAP Test Suite</th></tr>
-<tr><td><a href="#t0">ZAP TEST</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">13,120</td><td></td><td></td></tr>
+<tr><td><a href="#t0">ZAP TEST</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">26,034</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">ZAP Test Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">ZAP TEST &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.project.home.HomePageTest</td><td><a href="#m0">stopAppiumServer</a></td><td rowspan="1">1675184625808</td><td rowspan="1">2037</td></tr><tr><th colspan="4">ZAP TEST &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.project.home.HomePageTest</td><td><a href="#m1">test</a></td><td rowspan="1">1675184619622</td><td rowspan="1">5210</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">ZAP Test Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">ZAP TEST &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.project.home.HomePageTest</td><td><a href="#m0">test</a></td><td rowspan="1">1675861888526</td><td rowspan="1">18235</td></tr></tbody>
 </table>
-<h2>ZAP TEST</h2><h3 id="m0">com.project.home.HomePageTest#stopAppiumServer</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>web</td><td>ZAP_PROXY</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.zaproxy.clientapi.core.ClientApiException: java.net.ConnectException: Connection refused: connect
-	at org.zaproxy.clientapi.core.ClientApi.callApiOther(ClientApi.java:447)
-	at org.zaproxy.clientapi.gen.Core.htmlreport(Core.java:860)
-	at com.testautomation.ui.security.ZapScan.generateZapReport(ZapScan.java:148)
-	at com.testautomation.ui.base.BaseTest.stopAppiumServer(BaseTest.java:194)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
-	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
-	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
-	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
-	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
-	at java.net.Socket.connect(Socket.java:589)
-	at java.net.Socket.connect(Socket.java:538)
-	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
-	at sun.net.www.http.HttpClient$1.run(HttpClient.java:515)
-	at sun.net.www.http.HttpClient$1.run(HttpClient.java:513)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at sun.net.www.http.HttpClient.privilegedOpenServer(HttpClient.java:512)
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:553)
-	at sun.net.www.http.HttpClient.&lt;init&gt;(HttpClient.java:242)
-	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
-	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
-	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
-	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
-	at org.zaproxy.clientapi.core.ClientApi.getConnectionInputStream(ClientApi.java:417)
-	at org.zaproxy.clientapi.core.ClientApi.callApiOther(ClientApi.java:432)
-	... 22 more
-... Removed 15 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.project.home.HomePageTest#test</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.WebDriverException: unknown error: net::ERR_PROXY_CONNECTION_FAILED
-  (Session info: chrome=109.0.5414.120)
-Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;ALIPL1537&apos;, ip: &apos;192.168.0.107&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_202&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\AL2436\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53826}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(manual, http=localhos..., setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: e58e40f759afb642eb43c0d916023e3e
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
-	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:857)
-	at com.testautomation.ui.base.ElementEvent.gotoURL(ElementEvent.java:74)
-	at com.project.pages.home.HomePage.gotoSite(HomePage.java:19)
-	at com.project.home.HomePageTest.test(HomePageTest.java:18)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-... Removed 20 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>ZAP TEST</h2><h3 id="m0">com.project.home.HomePageTest#test</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

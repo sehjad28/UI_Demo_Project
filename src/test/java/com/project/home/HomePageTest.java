@@ -20,11 +20,10 @@ public class HomePageTest extends BaseTest {
         Thread.sleep(6000);
         System.out.println("ZAP SCAN TEST :: " + driver.getCurrentUrl());
         Thread.sleep(5000);
-    //    ZapScan.spider(my_url);
-//        Thread.sleep(5000);
-         ZapScan.passiveScan(my_url);
-//        Thread.sleep(5000);
-   //     ZapScan.activeScan(my_url);
+        // ZapScan.spider(my_url);
+        ZapScan.passiveScan(my_url);
+        // Thread.sleep(5000);
+        ZapScan.activeScan(my_url);
 
 
     }

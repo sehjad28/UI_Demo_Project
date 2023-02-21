@@ -1,19 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 15.175 s <<< FAILURE! - in TestSuite
-test(com.project.home.HomePageTest)  Time elapsed: 5.521 s  <<< FAILURE!
-org.openqa.selenium.WebDriverException: 
-unknown error: net::ERR_PROXY_CONNECTION_FAILED
-  (Session info: chrome=109.0.5414.120)
-Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
-System info: host: 'ALIPL1537', ip: '192.168.0.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\AL2436\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53826}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(manual, http=localhos..., setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: e58e40f759afb642eb43c0d916023e3e
-	at com.project.home.HomePageTest.test(HomePageTest.java:18)
-
-stopAppiumServer(com.project.home.HomePageTest)  Time elapsed: 8.224 s  <<< FAILURE!
-org.zaproxy.clientapi.core.ClientApiException: java.net.ConnectException: Connection refused: connect
-Caused by: java.net.ConnectException: Connection refused: connect
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.581 s - in TestSuite

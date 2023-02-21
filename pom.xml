@@ -69,7 +69,7 @@
                     <!-- <parallel>tests</parallel> -->
                     <!--                    <threadCount>10</threadCount>-->
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/accessibility-test-suite.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/zap-test-suite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
