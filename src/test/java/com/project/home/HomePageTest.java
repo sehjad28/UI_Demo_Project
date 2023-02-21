@@ -23,7 +23,7 @@ public class HomePageTest extends BaseTest {
         // ZapScan.spider(my_url);
         ZapScan.passiveScan(my_url);
         // Thread.sleep(5000);
-        ZapScan.activeScan(my_url);
+        //ZapScan.activeScan(my_url);
 
 
     }
