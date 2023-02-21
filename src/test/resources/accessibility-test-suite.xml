@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="ZAP Test Suite" parallel="tests">
+<suite name="Accessibility Test Suite" >
 
-    <test name="ZAP TEST">
+    <test name="Accessibility TEST">
         <parameter name="platformType" value="web"/>
-        <parameter name="platformName" value="ZAP_PROXY"/>
+        <parameter name="platformName" value="chrome"/>
+        <parameter name="axe" value="all"/>
         <classes>
             <class name="com.project.home.HomePageTest"/>
         </classes>
