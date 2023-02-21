@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Accessibility Test Suite]">
+  <test thread-count="5" verbose="0" name="Accessibility TEST(failed)">
+    <parameter name="platformType" value="web"/>
+    <parameter name="platformName" value="chrome"/>
+    <parameter name="axe" value="critical"/>
+    <classes>
+      <class name="com.project.home.AccesibiltyTest">
+        <methods>
+          <include name="stopAppiumServer"/>
+          <include name="startAppiumServer"/>
+          <include name="teardownDriver"/>
+          <include name="setupDriver"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.project.home.AccesibiltyTest -->
+    </classes>
+  </test> <!-- Accessibility TEST(failed) -->
+</suite> <!-- Failed suite [Accessibility Test Suite] -->
