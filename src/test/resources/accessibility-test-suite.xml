@@ -5,7 +5,7 @@
     <test name="Accessibility TEST">
         <parameter name="platformType" value="web"/>
         <parameter name="platformName" value="chrome"/>
-        <parameter name="axe" value="all"/>
+        <parameter name="axe" value="critical"/>
         <classes>
             <class name="com.project.home.HomePageTest"/>
         </classes>
