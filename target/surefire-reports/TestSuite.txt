@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.17 s <<< FAILURE! - in TestSuite
-test(com.project.home.AccesibiltyTest)  Time elapsed: 9.9 s  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.29 s <<< FAILURE! - in TestSuite
+test(com.project.home.AccesibiltyTest)  Time elapsed: 11.985 s  <<< FAILURE!
 java.lang.AssertionError: 
 The following asserts failed:
 	Test Failed Cause Of Accessibility Checks Failure. Please Click Links above To Get Into Details Of Failures expected [true] but found [false]

@@ -69,7 +69,8 @@
                     <!-- <parallel>tests</parallel> -->
                     <!--                    <threadCount>10</threadCount>-->
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/zap-test-suite.xml</suiteXmlFile>
+                        <!--suppress UnresolvedMavenProperty -->
+                        <suiteXmlFile>src/test/resources/${testfile}.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>

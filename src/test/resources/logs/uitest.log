@@ -1175,3 +1175,41 @@ INFO    2023-02-21 21:43:07,732 [main] com.testautomation.ui.utilities.LoadLogge
 INFO    2023-02-21 21:43:17,355 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
 INFO    2023-02-21 21:43:18,338 [main] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
 INFO    2023-02-21 21:43:18,367 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: Accessibility TEST
+INFO    2023-02-21 22:05:10,904 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-02-21 22:05:10,927 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-02-21 22:05:11,114 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-02-21 22:05:11,199 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-02-21 22:05:25,367 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com
+INFO    2023-02-21 22:05:27,392 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-02-21 22:05:27,394 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-02-21 22:05:28,255 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-02-21 22:05:28,267 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-02-21 22:08:09,567 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Security tests starting
+INFO    2023-02-21 22:08:11,864 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized With ZAP Proxy
+INFO    2023-02-21 22:08:11,880 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - ZAP_PROXY driver has been created for execution
+INFO    2023-02-21 22:08:12,103 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-02-21 22:08:12,177 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-02-21 22:08:26,660 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Spidering target : http://php.testsparker.com
+INFO    2023-02-21 22:08:30,753 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Passive scanning completed
+INFO    2023-02-21 22:08:30,754 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST PASS: test - null
+INFO    2023-02-21 22:08:31,555 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-02-21 22:08:31,635 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-02-21 22:11:16,552 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - Accessibility testing starting
+INFO    2023-02-21 22:11:16,714 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST SKIP: test - null
+INFO    2023-02-21 22:11:16,725 [TestNG-tests-1] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: ZAP TEST
+INFO    2023-02-21 22:12:06,822 [main] com.testautomation.ui.utilities.LoadLogger  - Accessibility testing starting
+INFO    2023-02-21 22:12:09,093 [main] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-02-21 22:12:09,108 [main] com.testautomation.ui.utilities.LoadLogger  - chrome driver has been created for execution
+INFO    2023-02-21 22:12:09,223 [main] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-02-21 22:12:09,286 [main] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-02-21 22:12:21,967 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-02-21 22:12:23,034 [main] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-02-21 22:12:23,054 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: Accessibility TEST
+INFO    2023-02-21 22:25:01,537 [main] com.testautomation.ui.utilities.LoadLogger  - Accessibility testing starting
+INFO    2023-02-21 22:25:03,874 [main] com.testautomation.ui.utilities.LoadLogger  - Chrome local driver initialized
+INFO    2023-02-21 22:25:03,898 [main] com.testautomation.ui.utilities.LoadLogger  - chrome driver has been created for execution
+INFO    2023-02-21 22:25:04,001 [main] com.testautomation.ui.utilities.LoadLogger  - TEST START: test - null
+INFO    2023-02-21 22:25:04,054 [main] com.testautomation.ui.utilities.LoadLogger  - Initializing the BasePage elements
+INFO    2023-02-21 22:25:15,695 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FAIL: test - null
+INFO    2023-02-21 22:25:16,690 [main] com.testautomation.ui.utilities.LoadLogger  - Driver instance has been quit from execution
+INFO    2023-02-21 22:25:16,700 [main] com.testautomation.ui.utilities.LoadLogger  - TEST FINISH: Accessibility TEST

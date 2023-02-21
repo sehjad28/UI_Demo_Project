@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Accessibility Test Suite" duration-ms="13078" started-at="2023-02-21T16:13:05Z" finished-at="2023-02-21T16:13:18Z">
+  <suite name="Accessibility Test Suite" duration-ms="15243" started-at="2023-02-21T16:55:01Z" finished-at="2023-02-21T16:55:16Z">
     <groups>
     </groups>
-    <test name="Accessibility TEST" duration-ms="13078" started-at="2023-02-21T16:13:05Z" finished-at="2023-02-21T16:13:18Z">
+    <test name="Accessibility TEST" duration-ms="15243" started-at="2023-02-21T16:55:01Z" finished-at="2023-02-21T16:55:16Z">
       <class name="com.project.home.AccesibiltyTest">
-        <test-method status="PASS" signature="startAppiumServer(java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@6c451c9c]" name="startAppiumServer" is-config="true" duration-ms="60" started-at="2023-02-21T16:13:05Z" finished-at="2023-02-21T16:13:05Z">
+        <test-method status="PASS" signature="startAppiumServer(java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@d816dde]" name="startAppiumServer" is-config="true" duration-ms="53" started-at="2023-02-21T16:55:01Z" finished-at="2023-02-21T16:55:01Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startAppiumServer -->
-        <test-method status="PASS" signature="setupDriver(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@6c451c9c]" name="setupDriver" is-config="true" duration-ms="2211" started-at="2023-02-21T16:13:05Z" finished-at="2023-02-21T16:13:07Z">
+        <test-method status="PASS" signature="setupDriver(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@d816dde]" name="setupDriver" is-config="true" duration-ms="2363" started-at="2023-02-21T16:55:01Z" finished-at="2023-02-21T16:55:03Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method status="FAIL" signature="test()[pri:0, instance:com.project.home.AccesibiltyTest@6c451c9c]" name="test" duration-ms="9681" started-at="2023-02-21T16:13:07Z" finished-at="2023-02-21T16:13:17Z">
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.project.home.AccesibiltyTest@d816dde]" name="test" duration-ms="11694" started-at="2023-02-21T16:55:04Z" finished-at="2023-02-21T16:55:15Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[The following asserts failed:
@@ -96,11 +96,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="teardownDriver()[pri:0, instance:com.project.home.AccesibiltyTest@6c451c9c]" name="teardownDriver" is-config="true" duration-ms="739" started-at="2023-02-21T16:13:17Z" finished-at="2023-02-21T16:13:18Z">
+        <test-method status="PASS" signature="teardownDriver()[pri:0, instance:com.project.home.AccesibiltyTest@d816dde]" name="teardownDriver" is-config="true" duration-ms="677" started-at="2023-02-21T16:55:16Z" finished-at="2023-02-21T16:55:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownDriver -->
-        <test-method status="PASS" signature="stopAppiumServer(java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@6c451c9c]" name="stopAppiumServer" is-config="true" duration-ms="0" started-at="2023-02-21T16:13:18Z" finished-at="2023-02-21T16:13:18Z">
+        <test-method status="PASS" signature="stopAppiumServer(java.lang.String, java.lang.String)[pri:0, instance:com.project.home.AccesibiltyTest@d816dde]" name="stopAppiumServer" is-config="true" duration-ms="0" started-at="2023-02-21T16:55:16Z" finished-at="2023-02-21T16:55:16Z">
           <params>
             <param index="0">
               <value>
