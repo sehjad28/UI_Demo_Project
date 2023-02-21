@@ -14,8 +14,8 @@ public class HomePageTest extends BaseTest {
     public void test() throws Exception {
        // String my_url = "https://www.hackthissite.org/";
         String my_url = "http://php.testsparker.com";
-      //  String my_url = "http://192.168.0.109/WackoPicko/";
-        // page.getPageInstance(HomePage.class).gotoSite("https://customer.qa.accelerate.cinchhs.com/account");
+      //String my_url = "http://192.168.0.109/WackoPicko/";
+        //page.getPageInstance(HomePage.class).gotoSite("https://customer.qa.accelerate.cinchhs.com/account");
         page.getPageInstance(HomePage.class).gotoSite(my_url);
         Thread.sleep(6000);
         System.out.println("ZAP SCAN TEST :: " + driver.getCurrentUrl());
